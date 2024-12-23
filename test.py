@@ -7,3 +7,5 @@ sum_result = num1 + num2
 
 # 결과 출력
 print(f"두 숫자의 합은 {sum_result}입니다.")
+
+print("아 몰룽 어렵다")

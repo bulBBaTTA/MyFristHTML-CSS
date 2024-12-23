@@ -9,3 +9,5 @@ sum_result = num1 + num2
 print(f"두 숫자의 합은 {sum_result}입니다.")
 
 print("아 몰룽 어렵다")
+x=13454242
+print(x)
